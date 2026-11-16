@@ -1,0 +1,24 @@
+{
+  "run": "final_checkpoint",
+  "steps": 288,
+  "duration_s": 5.76,
+  "trials": 8,
+  "successful_trials": 8,
+  "first_failure_steps": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "root_position_rmse_m": 0.12243924289941788,
+  "root_height_min_m": 0.6275912523269653,
+  "recorded_trial_displacement_xy_m": [
+    6.145071983337402,
+    -2.351224899291992
+  ],
+  "recorded_trial_success": true
+}
